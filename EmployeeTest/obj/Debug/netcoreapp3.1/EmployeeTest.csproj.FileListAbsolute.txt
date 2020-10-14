@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.pdb

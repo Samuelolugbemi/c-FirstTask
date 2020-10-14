@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\bin\Debug\netcoreapp3.1\DateTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\bin\Debug\netcoreapp3.1\DateTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\bin\Debug\netcoreapp3.1\DateTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\bin\Debug\netcoreapp3.1\DateTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\bin\Debug\netcoreapp3.1\DateTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\bin\Debug\netcoreapp3.1\DateTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\obj\Debug\netcoreapp3.1\DateTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\obj\Debug\netcoreapp3.1\DateTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\obj\Debug\netcoreapp3.1\DateTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\obj\Debug\netcoreapp3.1\DateTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\DateTest\obj\Debug\netcoreapp3.1\DateTest.pdb

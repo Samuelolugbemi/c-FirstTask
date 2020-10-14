@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\bin\Debug\netcoreapp3.1\InvoiceTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\bin\Debug\netcoreapp3.1\InvoiceTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\bin\Debug\netcoreapp3.1\InvoiceTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\bin\Debug\netcoreapp3.1\InvoiceTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\bin\Debug\netcoreapp3.1\InvoiceTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\bin\Debug\netcoreapp3.1\InvoiceTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\obj\Debug\netcoreapp3.1\InvoiceTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\obj\Debug\netcoreapp3.1\InvoiceTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\obj\Debug\netcoreapp3.1\InvoiceTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\obj\Debug\netcoreapp3.1\InvoiceTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task\InvoiceTest\obj\Debug\netcoreapp3.1\InvoiceTest.pdb
